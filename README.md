@@ -1,6 +1,6 @@
 # Machine Learning I (UMONS)
 
-This is a repository to organize the teaching material for [Machine Learning](https://applications.umons.ac.be/web/en/pde/2021-2022/aa/S-INFO-256.htm), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com).
+This is a repository to organize the teaching material for [Machine Learning I](https://applications.umons.ac.be/web/en/pde/2021-2022/aa/S-INFO-256.htm), to be taught by [Souhaib Ben Taieb](http://www.souhaib-bentaieb.com).
 
 # Course links
 
