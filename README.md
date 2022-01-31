@@ -38,6 +38,12 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 5 (Mar. 21): TBD
   - Lecture 10 (Mar. 25): TBD
 
+- Week 8 (Mar. 28-31). 
+  - Lab 6 (Mar. 28): TBD
+  - Lecture 11 (Mar. 28): TBD
+  - Lab 7 (Mar. 31): TBD
+
+
 **Spring Break**
 
 
