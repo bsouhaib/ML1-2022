@@ -67,7 +67,5 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 13 (May 16-20). 
   - Lecture 16 (May 16): TBD
-  - Lecture 17 (May 16): TBD
-  - Lecture 18 (May 18): TBD
-  - Lecture 19 (May 18): TBD
+  - Lecture 16 (May 18): TBD
 
