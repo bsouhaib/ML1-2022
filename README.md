@@ -47,5 +47,10 @@ This is a repository to organize the teaching material for [Machine Learning I](
 **Spring Break**
 
 
+- Week 9 (Apr. 18-22). 
+  - Lecture 12 (Apr. 21): TBD
+  - Lecture 13 (Apr. 22): TBD
+  - Lab 8 (Apr. 22): TBD
+
 
 
