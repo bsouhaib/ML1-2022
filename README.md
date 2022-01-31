@@ -15,9 +15,21 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lecture 3 (Feb. 10): Review of probability and statistics
 
 - Week 2 (Feb. 14-18). 
-  - Lecture 4 (Feb. 14): Review of probability and statistics
+  - Lab 1 (Feb. 14): TBD
   - Lecture 4 (Feb. 17): Review of probability and statistics
   
+- Week 3 (Feb. 21-25). 
+   - Lecture 5 (Feb. 22): TBD
+
+- Week 4 (Feb. 28 - Mar. 4). 
+  - Lab 2 (Feb. 28): TBD
+  - Lecture 6 (Feb. 28): TBD
+
+- Week 5 (Mar. 7-11). 
+  - Lab 3 (Mar. 7): TBD
+  - Lecture 7 (Mar. 7): TBD
+
+
 
 **Spring Break**
 
