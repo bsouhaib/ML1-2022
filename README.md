@@ -9,13 +9,14 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 # Content
 
-- Week 1 (Feb. 1-5). 
-  - Lecture 1 (Feb. 1): Introduction [[slides]](./slides/1-ml-introduction.pdf)
-  - Lecture 2 (Feb. 3): Review of Probability (sample space and events, probability space, probability axioms and distributions, probability properties, computing the probability of events)
+- Week 1 (Feb. 7-11). 
+  - Lecture 1 (Feb. 8): Introduction [[slides]](./slides/1-ml-introduction.pdf)
+  - Lecture 2 (Feb. 9): Review of probability and statistics
+  - Lecture 3 (Feb. 10): Review of probability and statistics
 
-- Week 2 (Feb. 8-14). 
-  - Lecture 3 (Feb. 9): Conditional probability, independence of events, law of total probability, Bayes' rule, random variables (r.v.)
-  - Lecture 4 (Feb. 10): Distribution functions, identically distributed r.v., density and mass functions, examples of discrete and continuous r.v., expectation, properties of expectation, bivariate distribution, independence.
+- Week 2 (Feb. 14-18). 
+  - Lecture 4 (Feb. 14): Review of probability and statistics
+  - Lecture 4 (Feb. 17): Review of probability and statistics
   
 
 **Spring Break**
