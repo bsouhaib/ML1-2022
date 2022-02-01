@@ -36,12 +36,13 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 7 (Mar. 21-25). 
   - Lab 5 (Mar. 21): TBD
+  - Lab 6 (Mar. 22): TBD
   - Lecture 10 (Mar. 25): TBD
 
 - Week 8 (Mar. 28-31). 
-  - Lab 6 (Mar. 28): TBD
+  - Lab 7 (Mar. 28): TBD
   - Lecture 11 (Mar. 28): TBD
-  - Lab 7 (Mar. 31): TBD
+  - Lab 8 (Mar. 31): TBD
 
 
 **Spring Break**
@@ -49,23 +50,22 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 9 (Apr. 18-22). 
   - Lecture 12 (Apr. 21): TBD
-  - Lecture 13 (Apr. 22): TBD
-  - Lab 8 (Apr. 22): TBD
+  - Lab 9 (Apr. 22): TBD
  
 - Week 10 (Apr. 25-29). 
-  - Lecture 14 (Apr. 27): TBD
-  - Lab 9 (Apr. 29): TBD
+  - Lecture 13 (Apr. 27): TBD
+  - Lab 10 (Apr. 29): TBD
 
 - Week 11 (May 2-6). 
-  - Lecture 15 (May 4): TBD
-  - Lab 10 (May 5): TBD
-  - Lab 11 (May 6): TBD
+  - Lecture 14 (May 4): TBD
+  - Lab 11 (May 5): TBD
+  - Lab 12 (May 6): TBD
 
 - Week 12 (May 9-13). 
-  - Lab 12 (May 9): TBD
-  - Lecture 16 (May 10): TBD
+  - Lab 13 (May 9): TBD
+  - Lecture 15 (May 10): TBD
 
 - Week 13 (May 16-20). 
-  - Lab 13 (May 16): TBD
-  - Lab 14 (May 18): TBD
+  - Lab 14 (May 16): TBD
+  - Lab 15 (May 18): TBD
 
