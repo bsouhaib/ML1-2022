@@ -14,7 +14,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lecture 2 (Feb. 9): Review of probability and statistics [[slides (PDF)]](./slides/1-ml-prob-stats-review.pdf)
 
 - Week 2 (Feb. 14-18). 
-  - Lab 1 (Feb. 14): Exploratory data analysis [[Lab1]](./labs/Lab1 )
+  - Lab 1 (Feb. 14): Exploratory data analysis with pandas [[Lab1]](./labs/Lab1 )
   - Lecture 3 (Feb. 17): Review of probability and statistics
   
 - Week 3 (Feb. 21-25). 
