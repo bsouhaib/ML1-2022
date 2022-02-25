@@ -21,7 +21,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
    - Lab 2 (Feb. 22): Review of probability and statistics [[Lab2]](./labs/Lab2)
 
 - Week 4 (Feb. 28 - Mar. 4). 
-  - Lecture 4 (Feb. 28): TBD
+  - Lecture 4 (Feb. 28): Supervised learning framework (components of learning, training and testing errors, model selection, cross-validation)
   - Lab 3 (Feb. 28): TBD
 
 - Week 5 (Mar. 7-11). 
