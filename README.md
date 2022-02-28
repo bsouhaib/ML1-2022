@@ -22,7 +22,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 4 (Feb. 28 - Mar. 4). 
   - Lecture 4 (Feb. 28): Supervised learning framework (components of learning, training and testing errors, model selection, cross-validation) [[slides (PDF)]](./slides/2-ml-learning-framework.pdf)
-  - Lab 3 (Feb. 28): Introduction to scikit-learn [[Lab3]] (./labs/Lab3)
+  - Lab 3 (Feb. 28): Introduction to scikit-learn [[Lab3]](./labs/Lab3)
 
 - Week 5 (Mar. 7-11). 
   - Lecture 5 (Mar. 7): TBD
