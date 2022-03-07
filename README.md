@@ -25,7 +25,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 3 (Feb. 28): Introduction to scikit-learn [[Lab3]](./labs/Lab3)
 
 - Week 5 (Mar. 7-11). 
-  - Lecture 5 (Mar. 7): TBD
+  - Lecture 5 (Mar. 7): Supervised learning framework (optimal predictions) [[slides (PDF)]](./slides/3-ml-optimal-predictions.pdf)
   - Lab 4 (Mar. 7): TBD
 
 - Week 6 (Mar. 14-18). 
