@@ -27,20 +27,21 @@ This is a repository to organize the teaching material for [Machine Learning I](
 - Week 5 (Mar. 7-11). 
   - Lecture 5 (Mar. 7): Supervised learning framework (optimal predictions) [[slides (PDF)]](./slides/3-ml-optimal-predictions.pdf)
   - Lab 4 (Mar. 7): Cross-validation and model selection in Scikit-learn [[Lab4]](./labs/Lab4)
+  - Lecture 6 (Mar. 11): Supervised learning framework (Bias and variance) 
 
 - Week 6 (Mar. 14-18). 
-  - Lecture 6 (Mar. 14): TBD
+  - Lecture 7 (Mar. 14): TBD
   - Lab 5 (Mar. 15): TBD
-  - Lecture 6 (Mar. 18): TBD
+  - Lecture 8 (Mar. 18): TBD
 
 - Week 7 (Mar. 21-25). 
   - Lab 6 (Mar. 21): TBD
   - Lab 7 (Mar. 22): TBD
-  - Lecture 8 (Mar. 25): TBD
+  - Lecture 9 (Mar. 25): TBD
 
 - Week 8 (Mar. 28-31). 
   - Lab 8 (Mar. 28): TBD
-  - Lecture 9 (Mar. 28): TBD
+  - Lecture 10 (Mar. 28): TBD
   - Lab 9 (Mar. 31): TBD
 
 
