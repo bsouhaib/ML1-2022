@@ -30,9 +30,9 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lecture 6 (Mar. 11): Supervised learning framework (Bias and variance) 
 
 - Week 6 (Mar. 14-18). 
-  - Lecture 7 (Mar. 14): TBD
+  - Lecture 7 (Mar. 14): Linear regression [[slides (PDF)]](./slides/4-ml-linear-regression.pdf)
   - Lab 5 (Mar. 15): TBD
-  - Lecture 8 (Mar. 18): TBD
+  - Lecture 8 (Mar. 18): Linear regression (continued)
 
 - Week 7 (Mar. 21-25). 
   - Lab 6 (Mar. 21): TBD
