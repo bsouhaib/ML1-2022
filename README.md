@@ -37,7 +37,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 - Week 7 (Mar. 21-25). 
   - Lab 6 (Mar. 21): Linear Regression : Theory exercises [[Lab6]](./labs/Lab6)
   - Lab 7 (Mar. 22): Linear Regression : Practical exercises [[Lab7]](./labs/Lab7)
-  - Lecture 9 (Mar. 25): TBD
+  - Lecture 9 (Mar. 25): [[slides (PDF)]](./slides/4-ml-linear-classification.pdf)
 
 - Week 8 (Mar. 28-31). 
   - Lab 8 (Mar. 28): TBD
