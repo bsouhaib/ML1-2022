@@ -40,9 +40,9 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lecture 9 (Mar. 25): Linear Classification [[slides (PDF)]](./slides/4-ml-linear-classification.pdf)
 
 - Week 8 (Mar. 28-31). 
-  - Lab 8 (Mar. 28): TBD
+  - Lab 8 (Mar. 28): Linear Classification : Theory exercises [[Lab8]](./labs/Lab8)
   - Lecture 10 (Mar. 28): TBD
-  - Lab 9 (Mar. 31): TBD
+  - Lab 9 (Mar. 31): Linear Classification : Practical exercises [[Lab9]](./labs/Lab9)
 
 
 **Spring Break**
