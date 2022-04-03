@@ -53,8 +53,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 9 (Apr. 22): TBD
  
 - Week 10 (Apr. 25-29). 
-  - Lecture 12 (Apr. 27): TBD
-  - Lab 10 (Apr. 29): TBD
+  -  Lab 10 (Apr. 27): TBD
+  - Lecture 12  (Apr. 29): TBD
 
 - Week 11 (May 2-6). 
   - Lecture 13 (May 4): TBD
