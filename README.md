@@ -6,6 +6,9 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - [Moodle (for discussion forum, assignments)](https://moodle.umons.ac.be/course/view.php?id=2785)
 
+# Project 
+
+- [Project 2021-2022](./project)
 
 # Content
 
