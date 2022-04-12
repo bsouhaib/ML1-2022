@@ -44,7 +44,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 8 (Mar. 28-31). 
   - Lab 8 (Mar. 28): Linear Classification : Theory exercises [[Lab8]](./labs/Lab8)
-  - Lecture 10 (Mar. 28): The Bootstrap + Tree-based methods
+  - Lecture 10 (Mar. 28): The Bootstrap  [[slides (PDF)]](./slides/6-bootstrap.pdf)
   - Lab 9 (Mar. 31): Linear Classification : Practical exercises [[Lab9]](./labs/Lab9)
 
 
@@ -52,7 +52,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 
 - Week 9 (Apr. 18-22). 
-  - Lecture 11 (Apr. 21): Tree-based methods
+  - Lecture 11 (Apr. 21): Tree-based methods [[slides (PDF)]](./slides/7-tree-based-methods/7-tree-based-methods.pdf)
   - Lab 9 (Apr. 22): TBD
  
 - Week 10 (Apr. 25-29). 
