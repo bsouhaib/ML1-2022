@@ -57,7 +57,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
  
 - Week 10 (Apr. 25-29). 
   -  Lab 10 (Apr. 27): TBD
-  - Lecture 12  (Apr. 29): TBD
+  - Lecture 12  (Apr. 29): Dimension reduction and principal component analysis
 
 - Week 11 (May 2-6). 
   - Lecture 13 (May 4): TBD
