@@ -57,7 +57,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
  
 - Week 10 (Apr. 25-29). 
   -  Lab 11 (Apr. 27): Tree-based methods on scikit-learn [[Lab11]](./labs/Lab11)
-  - Lecture 12  (Apr. 29): Dimension reduction and principal component analysis
+  - Lecture 12  (Apr. 29): Dimension reduction and principal component analysis [[slides (PDF)]](./slides/8-dimension-reduction/8-dimension-reduction.pdf)
 
 - Week 11 (May 2-6). 
   - Lecture 13 (May 4): TBD
