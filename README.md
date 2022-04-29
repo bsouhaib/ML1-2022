@@ -53,10 +53,10 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 9 (Apr. 18-22). 
   - Lecture 11 (Apr. 21): Tree-based methods [[slides (PDF)]](./slides/7-tree-based-methods/7-tree-based-methods.pdf)
-  - Lab 10 (Apr. 22): TBD
+  - Lab 10 (Apr. 22): Theory on Tree-based methods [[Lab10]](./labs/Lab10)
  
 - Week 10 (Apr. 25-29). 
-  -  Lab 11 (Apr. 27): TBD
+  -  Lab 11 (Apr. 27): Tree-based methods on scikit-learn [[Lab11]](./labs/Lab11)
   - Lecture 12  (Apr. 29): Dimension reduction and principal component analysis
 
 - Week 11 (May 2-6). 
