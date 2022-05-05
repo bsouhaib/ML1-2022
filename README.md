@@ -65,8 +65,8 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 13 (May 6): Principal component analysis (II/II)
 
 - Week 12 (May 9-13). 
-  - Lab 14 (May 9): TBD
-  - Lecture 14 (May 10): High-dimensional regression (II/II)
+  - Lecture 14 (May 9): High-dimensional regression (II/II)
+  - Lab 14 (May 10): TBD
 
 - Week 13 (May 16-20). 
   - Lab 15 (May 16): TBD
