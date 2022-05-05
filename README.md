@@ -70,7 +70,6 @@ This is a repository to organize the teaching material for [Machine Learning I](
 
 - Week 13 (May 16-20). 
   - Lab 15 (May 16): TBD
-  - Lab 15 (May 18): TBD
   - Lecture 15
 
 
