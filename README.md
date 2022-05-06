@@ -60,17 +60,16 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lecture 12  (Apr. 29): Dimension reduction and principal component analysis [[slides (PDF)]](./slides/8-dimension-reduction/8-dimension-reduction.pdf)
 
 - Week 11 (May 2-6). 
-  - Lecture 13 (May 4): TBD
-  - Lab 12 (May 5): TBD
-  - Lab 13 (May 6): TBD
+  - Lecture 13 (May 4): High-dimensional regression (I/II)
+  - Lab 12 (May 5): Principal component analysis (I/II)
+  - Lab 13 (May 6): Principal component analysis (II/II)
 
 - Week 12 (May 9-13). 
-  - Lab 14 (May 9): TBD
-  - Lecture 14 (May 10): TBD
+  - Lecture 14 (May 9): High-dimensional regression (II/II)
+  - Lab 14 (May 10): TBD
 
 - Week 13 (May 16-20). 
   - Lab 15 (May 16): TBD
-  - Lab 15 (May 18): TBD
   - Lecture 15
 
 
