@@ -69,7 +69,7 @@ This is a repository to organize the teaching material for [Machine Learning I](
   - Lab 14 (May 10): High-dimensional regression [[Lab14]](./labs/Lab14)
 
 - Week 13 (May 16-20). 
-  - Lab 15 (May 16): Reviews
+  - Lab 15 (May 16): Reviews and exam questions [[Lab15]](./labs/Lab15)
   - Lecture 15: Reviews
 
 
